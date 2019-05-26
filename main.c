@@ -7,7 +7,7 @@
 /*
         Simple Linux Mouse Hack
 
-        Developed by : Malindas Sulochana Silva
+        Developed by : Malinda Sulochana Silva
         Date         : 26:052019
         
         Free to modify,and use
