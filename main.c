@@ -4,6 +4,17 @@
 #include <fcntl.h>
 #include <stdbool.h>
 
+/*
+        Simple Linux Mouse Hack
+
+        Developed by : Malindas Sulochana Silva
+        Date         : 26:052019
+        
+        Free to modify,and use
+ */
+
+
+
 int main(){
 
 /* 
@@ -22,6 +33,9 @@ _________________________________
 Xm	X-Axis Movement Value
 _________________________________
 Ym	Y-Axis Movement Value
+
+details at: https://wiki.osdev.org/PS/2_Mouse
+
 */
     FILE * fp;
     unsigned char buffer[1024];
